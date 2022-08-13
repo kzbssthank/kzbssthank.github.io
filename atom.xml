@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>kzbssthank_blog</title>
+  <icon>https://www.gravatar.com/avatar/c0c34c43cc5a13df6ceea9e6501e91d5</icon>
   
+  <link href="https://kzbssthank.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2022-08-13T01:37:01.900Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://kzbssthank.github.io/"/>
+  <updated>2022-08-13T08:09:27.753Z</updated>
+  <id>https://kzbssthank.github.io/</id>
   
   <author>
     <name>君子藏锋</name>
-    
+    <email>3096624145@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>wodetest</title>
-    <link href="http://example.com/post/85c56f8d.html"/>
-    <id>http://example.com/post/85c56f8d.html</id>
+    <link href="https://kzbssthank.github.io/post/85c56f8d.html"/>
+    <id>https://kzbssthank.github.io/post/85c56f8d.html</id>
     <published>2022-08-13T01:36:29.000Z</published>
-    <updated>2022-08-13T01:37:01.900Z</updated>
+    <updated>2022-08-13T08:09:27.753Z</updated>
     
+    <content type="html"><![CDATA[<blockquote><p>此页面仅用于展示</p></blockquote><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;<span class="number">10</span>;i++)&#123;</span><br><span class="line">System.out.println(<span class="string">&quot;傻逼&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;此页面仅用于展示&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;</summary>
+      
     
     
     
@@ -31,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/post/4a17b156.html"/>
-    <id>http://example.com/post/4a17b156.html</id>
+    <link href="https://kzbssthank.github.io/post/4a17b156.html"/>
+    <id>https://kzbssthank.github.io/post/4a17b156.html</id>
     <published>2022-01-07T01:47:37.883Z</published>
     <updated>2022-08-13T01:37:01.903Z</updated>
     
